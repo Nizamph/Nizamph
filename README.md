@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Next.js, React.js, Next.js,Redux toolkit<br>🌱 I’m currently learning UI/UX<br>💬 Ask me about Next.js,React.js,Typescript,Javscript<br>
+🔭 I’m currently working on Next.js, React.js, Typescript, Redux <br>🌱 I’m currently learning UI/UX<br>💬 Ask me about Next.js,React.js,Typescript,Javscript<br>
 
 
 ## 🌐 Socials:
